@@ -1,83 +1,51 @@
-<img src="https://github.com/MiriamGiuliani/MiriamGiuliani/blob/865a35c9972f46b06f49d4be2adeea9138801833/banner.png" alt="banner that saysmy name">
+## Developer Portfolio Landing Page Template
 
-# <div align="center">Hi, I'm Miriam!</div>  
-  
+### Introduction
 
-- 🚀 I’m a former classical music professional, now working as a full-time Data Scientist   
-  
+Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-- 🌱Currently working with Python on ML models and reinforcing my data visualization skills  
-  
+<img src="images/demo.gif?raw=true"/>
 
-<br/>  
+### Installation
 
+See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+___
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
-</div>
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-</td><td valign="top" width="33%">
+### Markdown
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
-</div>
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-</td><td valign="top" width="33%">
+```markdown
+Syntax highlighted code block
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
-</div>
+# Header 1
+## Header 2
+### Header 3
 
-</td></tr></table>  
+- Bulleted
+- List
 
-<br/>  
+1. Numbered
+2. List
 
+**Bold** and _Italic_ and `Code` text
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/MiriamGiuliani" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/linkedin.com/in/miriamgiuliani" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+[Link](url) and ![Image](src)
+```
 
-<br/>  
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Roadmap
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MiriamGiuliani&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
+___
 
-<br/>  
+### References
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
+<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
