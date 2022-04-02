@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/MiriamGiuliani/MiriamGiuliani/blob/13734a5eaaeebeabff9d401dc04b4a313f0258bc/banner_def.png" alt="banner that says myname">
+<img src="https://github.com/MiriamGiuliani/MiriamGiuliani/blob/a7486dbe4066195c5a2f0cb3a6759e19878b67e9/banner.png" alt="banner that says myname">
 
 
