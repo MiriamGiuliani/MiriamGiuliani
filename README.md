@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github.com/MiriamGiuliani/MiriamGiuliani/blob/9a4896f01ff7e7c994d483b625cc819482bd1d22/banner.png
+
+<img src="https://github.com/MiriamGiuliani/MiriamGiuliani/blob/9a4896f01ff7e7c994d483b625cc819482bd1d22/banner.png" alt="banner that says myname">
+
+
